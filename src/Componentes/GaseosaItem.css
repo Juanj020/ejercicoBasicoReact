@@ -1,0 +1,27 @@
+img{
+    width: 100px;
+    height: 350px;
+}
+
+.gaseosa{
+    width: 300px;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 10px
+}
+
+.gaseosa-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    width: 120px;
+    text-decoration: none;
+    padding: 5px;
+    border: solid rgba(30, 29, 29, 0.432);
+    border-radius: 5px;
+}
